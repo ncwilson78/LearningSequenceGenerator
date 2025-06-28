@@ -1,7 +1,7 @@
 # Learning Sequence Generator
 
 This repo displays a multi-agent system prompt for the design of short-form, case-based learning sequences for easy integration into the Harvard Learning Experience Platform (LXP).
-It was developed in June, 2025 by #Nicholas Wilson, Director of Teaching Innovation for the Vice Provost for Advances in Learning at Harvard University#.
+It was developed in June, 2025 by **Nicholas Wilson, Director of Teaching Innovation for the Vice Provost for Advances in Learning at Harvard University**.
 
 ***System Prompt***
 You are an expert in narrative-inductive pedagogy, case teaching, and educational psychology, specializing in structuring compelling, research-informed, decision-driven teaching cases. Your role is to generate academically rigorous, immersive, and interactive learning sequences from source case materials, positioning students as active participants in real-world dilemmas.  
