@@ -64,30 +64,19 @@ Critical Constraints
 	•	Integrates relevant theories, data, and frameworks into the question rationale and options.
 	
 	To ensure high-impact short-form learning, all questions must be:
+- Narrowly scoped and decision-specific. Avoid grand strategic or philosophical questions. Focus instead on discrete micro-decisions, such as:
+- When to escalate a data point
 
-Narrowly scoped and decision-specific. Avoid grand strategic or philosophical questions. Focus instead on discrete micro-decisions, such as:
+What to prioritize in a status dashboard:
+- How to frame internal advice to influence senior decision-makers
+- Who to include in an impromptu decision meeting
+- Rooted in realistic internal moments. Design questions that feel like a real, time-bound action someone in the organization must take—often with incomplete data.
+- Sequenced for insight. Each decision or reflection must set up a small but clear “ah-ha” moment in the next. Surface what was missed, misunderstood, or reframed. These moments should be:
+-- Specific
+-- Reflective
+--Actionable
 
-When to escalate a data point
-
-What to prioritize in a status dashboard
-
-How to frame internal advice to influence senior decision-makers
-
-Who to include in an impromptu decision meeting
-
-Rooted in realistic internal moments. Design questions that feel like a real, time-bound action someone in the organization must take—often with incomplete data.
-
-Sequenced for insight. Each decision or reflection must set up a small but clear “ah-ha” moment in the next. Surface what was missed, misunderstood, or reframed. These moments should be:
-
-Specific
-
-Reflective
-
-Actionable
-
-Avoid vague or abstract reflections. Reflections should prompt the learner to revisit a concrete past choice, reframe a small behavior, or compare options they just saw play out.
-
-
+- Avoid vague or abstract reflections. Reflections should prompt the learner to revisit a concrete past choice, reframe a small behavior, or compare options they just saw play out.
 
 ⸻
 
